@@ -6,7 +6,7 @@ padding-left: 20px;
 `
 
 export const ContactItem = styled.div`
-width: 300px;
+width: 400px;
 margin-top: 10px;
 display: flex;
 align-items: center;
